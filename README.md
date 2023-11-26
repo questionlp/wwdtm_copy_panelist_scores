@@ -6,7 +6,7 @@ Python script that copies existing panelist scores into a new decimal table colu
 
 ## Requirements
 
-- Python 3.8 or newer
+- Python 3.10 or newer
 - MySQL Server 8.0 or newer, or another MySQL Server distribution based on MySQL Server 8.0 or newer, hosting a version of the aforementioned Wait Wait Don't Tell Me! Stats database
 
 ## License
